@@ -1,4 +1,4 @@
-package com.demo.simplifymvpdemo;
+package com.trayis.simplimvpdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.mvp.simplifymvp;
+package com.trayis.simplimvpdemo;
 
 import org.junit.Test;
 
